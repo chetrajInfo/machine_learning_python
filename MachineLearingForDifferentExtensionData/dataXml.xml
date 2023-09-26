@@ -1,0 +1,17 @@
+<data>
+    <person>
+        <id>1</id>
+        <name>Alice</name>
+        <age>28</age>
+    </person>
+    <person>
+        <id>2</id>
+        <name>Charlie</name>
+        <age>33</age>
+    </person>
+    <person>
+        <id>3</id>
+        <name>Steve</name>
+        <age>48</age>
+    </person>
+</data>
